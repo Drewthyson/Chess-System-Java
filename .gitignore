@@ -14,7 +14,7 @@ local.properties
 .externalToolBuilders/
 
 # Portable Network Graphics
-*.png
+# *.png
 
 # Locally stored "Eclipse launch configurations"
 *.launch
