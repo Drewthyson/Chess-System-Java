@@ -17,3 +17,16 @@ To install this project, you first need to clone the project from github into ec
 3 - Copy and paste the URI to clone the project and click next and finish.
 
 4 - back to the default view, go to File > Import and select the option: Projects from Git > Existing local repository, select the imported project > on the next screen, select "Import existing Eclipse projects" and finish.
+
+5 - finally, go to the Program.java file in the path src > application and run it.
+
+EXTRA - It is possible to run the project through the Git Bash terminal, just open the terminal in the bin folder created when linked to eclipse and write the following command
+```bash
+java application/Program
+```
+
+That's it, I hope you can run the program and test it.
+
+knowledge used to create this project:
+`inheritance` `Polymorphism`
+`Encapsulation` `Exceptions`
